@@ -1,4 +1,4 @@
-# Eu sou Leon Douglas, Desenvolvedor Back-End :octocat:
+# Eu sou Leon Douglas, Desenvolvedor Back-End 🤖
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/leondouglas/)](https://www.linkedin.com/in/leondouglas/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-6633cc?style=flat-square&logo=Twitter&logoColor=white&color=black&link=https://twitter.com/leonnashi)](https://twitter.com/leonnashi)
