@@ -9,7 +9,7 @@
 ```javascript
   async user.index({
     name: 'Leon Douglas',
-    age: 29,
+    age: 30,
     city: 'Camaragibe, PE',
     stack: ['Java', 'Scrum', 'C#.NET' , 'Python', '(My|Postgre)SQL']
     hobby: 'Game , Animes , Music , Series'
