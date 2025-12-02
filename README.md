@@ -9,10 +9,10 @@
 ```javascript
   async user.index({
     name: 'Leon Douglas',
-    age: 30,
-    city: 'Camaragibe, PE',
+    age: 35,
+    city: 'Recife, PE',
     stack: ['Java', 'Scrum', 'C#.NET' , 'Python', '(My|Postgre)SQL']
-    hobby: 'Game , Animes , Music , Series'
+    hobby: 'Game , Music , Series'
   });
   
   return response.status(201).send();
